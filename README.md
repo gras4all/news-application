@@ -1,4 +1,4 @@
 # Simple news application
 Architecture: MVP + Coordinator;
-Layout: PinLayout;
+Approach for making layout: PinLayout;
 Unit tests: XCTest
